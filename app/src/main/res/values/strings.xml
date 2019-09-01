@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HindiStory</string>
+    <string name="app_home">Home</string>
+    <string name="app_news">News</string>
+    <string name="app_setting">Setting</string>
+    <string name="app_about">About Us</string>
+    <string name="app_story">Story</string>
+    <string name="title_activity_home">Home</string>
+
+</resources>
